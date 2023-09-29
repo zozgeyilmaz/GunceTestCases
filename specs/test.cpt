@@ -1,0 +1,38 @@
+# Hesap Oluştur
+* "2" saniye kadar bekle
+* "HesapOlusturLink" objesine tıklanır
+* "PaketDropdownlist" objesine tıklanır
+* "PaketBireysel" objesine tıklanır
+* "Isim" objesini bul ve "deneme" değerini yaz
+* "Soyisim" objesini bul ve "deneme" değerini yaz
+* "TelNo" objesini bul ve "(555)5375880" değerini yaz
+* "E-mail" objesini bul ve "deneme@gmail.com" değerini yaz
+* "KurumAdi" objesini bul ve "deneme" değerini yaz
+* "3" saniye kadar bekle
+* "HizmetSozlesmesi" objesine tıklanır
+* Sayfayı "HesapOlusturBtn" görünene kadar kaydır
+* "HesapOlusturBtn" objesine tıklanır
+* "10" saniye kadar bekle
+
+
+
+# Login olunur-Case1
+* "E-mail" objesini bul ve "hoxepivy@hexi.pics" değerini yaz
+* "password" objesini bul ve "Gunce1234" değerini yaz
+* "GirisYap" objesine tıklanır
+* "4" saniye kadar bekle
+
+# Login olunur-Case2
+* "E-mail" objesini bul ve "guncetestuser7@gun.av.tr" değerini yaz
+* "password" objesini bul ve "Gunce123" değerini yaz
+* "GirisYap" objesine tıklanır
+* "4" saniye kadar bekle
+
+# Kullanicinin Giris Yaptigi Kontrol Edilir
+* "LoginKontrol" objesi görünür durumda
+
+# Masraf Ekle
+* "Masraflar" objesine tıklanır
+* "Ekle" objesine tıklanır
+* "5" saniye kadar bekle
+//* "MasrafEkle" objesine tıklanır

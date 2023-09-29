@@ -1,0 +1,175 @@
+[
+  {
+    "key": "HesapOlusturLink",
+    "value": "//a[@href='/Licence/InsertDemoCustomer']",
+    "type": "xpath"
+  },
+  {
+    "key": "PaketBireysel",
+    "value": "//option[text()='Bireysel']",
+    "type": "xpath"
+  },
+  {
+    "key": "PaketDropdownlist",
+    "value": "//span[@role='presentation']",
+    "type": "xpath"
+  },
+  {
+    "key": "Isim",
+    "value": "#Name",
+    "type": "css"
+  },
+  {
+    "key": "Soyisim",
+    "value": "#Surname",
+    "type": "css"
+  },
+  {
+  "key": "TelNo",
+  "value": "//input[@id='phoneFormatValidate']",
+  "type": "xpath"
+  },
+  {
+    "key": "KurumAdi",
+    "value": "#CompanyName",
+    "type": "css"
+  },
+  {
+    "key": "HizmetSozlesmesi",
+    "value": "IsServiceAgreement",
+    "type": "id"
+  },
+  {
+    "key": "HesapOlusturBtn",
+    "value": ".btn.btn-primary.btn-blue",
+    "type": "css"
+  },
+  {
+    "key": "E-mail",
+    "value": "Email",
+    "type": "id"
+  },
+  {
+    "key": "password",
+    "value": "//input[@id='password-field']",
+    "type": "xpath"
+  },
+  {
+    "key": "GirisYap",
+    "value": ".btn.btn-blue",
+    "type": "css"
+  },
+  {
+    "key": "LoginKontrol",
+    "value": "//span[text()='Anasayfa']",
+    "type": "xpath"
+  },
+  {
+    "key": "Masraflar",
+    "value": "(//span[text()='Masraflar'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "Ekle",
+    "value": "//span[@class='font-size-13 font-weight-600' and text()=' Ekle ']",
+    "type": "xpath"
+  },
+  {
+    "key": "MasrafEkle",
+    "value": "//a[@href='/ExpenseEntity/Insert' and text()='Masraf']",
+    "type": "xpath"
+  },
+  {
+    "key": "Buromuz",
+    "value": "buromuz",
+    "type": "id"
+  },
+  {
+    "key": "Ekip Arkadaslarimiz",
+    "value": "//span[text()='Ekip Arkadaşlarımız ']",
+    "type": "xpath"
+  },
+  {
+    "key": "Ekip Arkadaısı Ekle",
+    "value": ".btn-add",
+    "type": "css"
+  },
+  {
+    "key": "Name",
+    "value": "EmployeeInsertName",
+    "type": "id"
+  },
+  {
+    "key": "Surname",
+    "value": "EmployeeInsertSurname",
+    "type": "id"
+  },
+  {
+    "key": "Nickname",
+    "value": "NickName",
+    "type": "id"
+  },
+  {
+    "key": "Unvan",
+    "value": "select2-ParameterTitleId-container",
+    "type": "id"
+  },
+  {
+  "key": "Unvan-Arastirma Asistani",
+  "value": "//option[text()='Araştırma Asistanı']",
+  "type": "xpath"
+  },
+  {
+    "key": "Grup Firmasi",
+    "value": "select2-ParameterGroupCompanyId-container",
+    "type": "id"
+  },
+
+  {
+    "key": "Grup Firmasi-Test",
+    "value": "//span[text()='TestKurumNamea']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "TC Kimlik No",
+    "value": "IdentityNumber",
+    "type": "id"
+  },
+  {
+    "key": "Gunce Kullanicisi-Evet",
+    "value": "IsSystemUserYes",
+    "type": "id"
+  },
+  {
+    "key": "Dogum Tarihi",
+    "value": "BirthDate",
+    "type": "id"
+  },
+  {
+    "key": "Calisan Tipi",
+    "value": "select2-PrmEmployeeRecordTypeId-container",
+    "type": "id"
+  },
+  {
+    "key": "Calisan Tipi-Arastirmaci",
+    "value": "//option[text()='Araştırma']",
+    "type": "xpath"
+  },
+  {
+    "key": "KISISEL TABI",
+    "value": "//span[text()='KİŞİSEL']",
+    "type": "xpath"
+  },
+  {
+    "key": "Calisan Ekle Sayfasi",
+    "value": ".page-header-name.imageHeader",
+    "type": "css"
+  },
+  {
+    "key": "KaydetIkon",
+    "value": "gunceFonts gi-save-action",
+    "type": "css"
+  }
+
+]
